@@ -11,6 +11,7 @@ WinRar KEY: BK-dHB29f9n
 
 To download the script, join this Discord: https://discord.gg/kh2g9BGtkT
 The resource was entirely created by Baiiki.#5575 
+******** JOIN DISCORD FOR HAVE WINRAR KEY ********
 
 
 ═════════════════════
@@ -27,6 +28,6 @@ Clé WinRar: BK-dHB29f9n
 
 Pour télécharger le script, rejoignez ce Discord: https://discord.gg/kh2g9BGtkT
 Cette ressource a été entièrement créée par Baiiki.#5575
-
+******** REJOIGNEZ LE DISCORD POUR AVOIR LA CLÉ WINRAR ********
 
 ═════════════════════
