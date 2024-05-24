@@ -5,7 +5,7 @@ Name of the resource: BK'MenuHelp
 Price of the resource: FREE
 Resource Details: The script allows to get information about the different commands and keys of the server.
 The resource is under RageUI V2 libraries and ESX framework.
-WinRar KEY: BK-dHB29f9n
+WinRar KEY: BK-Tq4M8vg4
 
 
 
@@ -23,7 +23,7 @@ Prix de la ressource: GRATUIT
 Détails des ressources : Script qui ajoute les shop 24/7 dans la map. 
 Ce script est complètement configurable
 La ressource est sous les librairies RageUI V2 et framework ESX.
-Clé WinRar: BK-dHB29f9n
+Clé WinRar: BK-Tq4M8vg4
 
 
 Pour télécharger le script, rejoignez ce Discord: https://discord.gg/kh2g9BGtkT
